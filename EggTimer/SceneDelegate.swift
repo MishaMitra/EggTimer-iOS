@@ -1,11 +1,10 @@
 //
-//  SceneDelegate.swift
+//  File.swift
 //  EggTimer
 //
-//  Created by Angela Yu on 08/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Михаил Кузнецов on 21.08.2023.
+//  Copyright © 2023 The App Brewery. All rights reserved.
 //
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
